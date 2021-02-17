@@ -1,0 +1,4 @@
+[submodule "ealfaro91/crm_opportunity"]
+	path = ealfaro91/crm_opportunity
+	url = git@github.com:ealfaro91/crm_opportunity.git
+	branch = master
